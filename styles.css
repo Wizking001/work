@@ -1,0 +1,145 @@
+.container {
+  
+   height: 700px;
+   background-color: rgb(155, 180, 180);
+}
+.bag {
+    position: relative;
+    top: 400px;
+    left: 250px;
+}
+.ark > img {
+    position: relative;
+    bottom: 260px;
+   height: 100px;
+   width: 100px;
+   left: 180px;
+}
+
+.vee > img {
+    height: 50px;
+    width: 130px;
+    position: relative;
+    bottom: 260px;
+    left: 1000px;
+}
+.big > img {
+    height: 50px;
+    width: 130px;
+    position: relative;
+    bottom: 150px;
+    left: 290px;
+}
+.sean {
+  position: relative;
+  left: 600px;
+  bottom: 200px;
+   font-family: cursive;
+    font-size: 50px;
+    color: rgb(127, 206, 181);
+}
+.web {
+    position: relative;
+    left: 650px;
+    bottom: 170px;
+     font-family: arial;
+      color: rgb(170, 224, 207);
+}
+.book > img {
+    position: relative;
+    left: 600px;
+    width: 150px;
+    height: 150px;
+    top: 80px;
+}
+.black > img {
+    width: 150px;
+    height: 150px;
+   position: relative;
+   top: 500px;
+   left: 330px;
+}
+.blue > img {
+    height: 150px;
+    width: 150px;
+    position: relative;
+    left: 900px;
+    top: 450px;
+}
+
+.hi {
+    position: relative;
+    left: 670px;
+    bottom: 220px;
+    font-family: cursive;
+    font-size: 25px;
+     color: rgb(127, 206, 181);
+}
+.im {
+    position: relative;
+    bottom: 220px;
+    left: 550px;
+      font-family: arial;
+}
+.what {
+    position: relative;
+    bottom: 150px;
+    left: 590px;
+     font-family: arial;
+     font-size: 35px;
+       color: rgb(127, 206, 181);
+}
+.de {
+    position: relative;
+    left: 680px;
+    bottom: 80px;
+    font-size: 25px;
+     font-family: arial;
+      color: rgb(127, 206, 181);
+}
+.like {
+    position: relative;
+    left: 680px;
+    bottom: 80px;
+     font-family: arial;
+}
+.dev {
+    position: relative;
+    left: 370px;
+     font-family: arial;
+      color: rgb(88, 161, 138);
+      font-size: 35px;
+}
+.brown {
+    position: relative;
+    left: 370px;
+}
+.can {
+    position: relative;
+    left: 600px;
+    top: 150px;
+    font-size: 40px;
+     font-family: arial;
+     color: rgb(88, 161, 138);
+}
+.bad {
+    position: relative;
+    left: 470px;
+    top: 200px;
+    font-size: 25px;
+     font-family: arial;
+      color: rgb(88, 161, 138);
+}
+.box {
+    position: relative;
+    top: 250px;
+    left: 470px;
+}
+.env {
+    border: 10px;
+    background-color: rgb(88, 161, 138);
+    width: 130px;
+    position: relative;
+    left: 600px;
+    top: 300px;
+}
